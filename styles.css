@@ -1,0 +1,62 @@
+/* CSS Reset*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+/* global stylings */
+
+body{
+    font-family: Quintessential;
+    background-color: #7f5187;
+    color:#fff;
+    font-weight:400;
+      
+}
+
+header{
+    text-align:center;
+    background-color: #7f5187;
+    color:#fff;        
+}
+h1{
+    font-weight:600;
+}
+
+h2{
+    font-weight:500;
+}
+nav{
+    background-color: #7f5187;
+    color:#fff;
+    
+}
+nav a{
+    color:#fff;
+    text-decoration: none;
+    
+
+}
+
+button{
+    background-color:#3cb88f;
+}
+main{
+    padding:10px;
+    
+}
+
+footer{
+    background-color: #7f5187;
+    color:#fff;
+    text-align: center;
+    
+}
+
+
+
+
+
