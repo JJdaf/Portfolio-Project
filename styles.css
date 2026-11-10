@@ -49,6 +49,16 @@ main{
     
 }
 
+img{
+    width:329px;
+    height:441px;
+    border:1px;
+    border-radius:59px;
+    margin:0;
+    padding:0;
+    align-content: center;
+}
+
 footer{
     background-color: #7f5187;
     color:#fff;
