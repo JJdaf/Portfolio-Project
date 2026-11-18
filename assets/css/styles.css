@@ -41,7 +41,11 @@ h3{
     text-align:right;
     transform:translateY(-225px);
 }
-
+textarea{
+    width:50%;
+    height:70px;
+        
+}
 nav{
     background-color: #7f5187;
     color:#fff;
@@ -54,6 +58,13 @@ nav{
     
     
 }
+
+.cards{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
 
 nav li{
     display:inline-block;
@@ -75,10 +86,36 @@ nav a{
 
 button{
     background-color:#3cb88f;
+    border:none;
+    padding:12px;
+    text-align:center;
+    cursor:pointer;
+    display:inline-block;
+    transform:translateY(-230px);
+    position:absolute;
+    right:0;
+   
+    
+}
+input{
+    display:block;
+  
+}
+form{
+    padding:30px;
+    margin:20px;
+    box-sizing: border-box;
+    border:none;
 }
 main{
     padding:10px;
     
+}
+
+.blackbar{
+    height:30px;
+    width:50%;
+    background-color: black;
 }
 
 img{
